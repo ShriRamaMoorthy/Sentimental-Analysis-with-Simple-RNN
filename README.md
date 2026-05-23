@@ -1,0 +1,1 @@
+# Sentimental-Analysis-with-Simple-RNN
